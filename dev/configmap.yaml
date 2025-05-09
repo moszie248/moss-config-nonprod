@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  SERVICE_A_KEY: SERVICEAAAAA_AAAAA
+  SERVICE_B_KEY: SERVICEBBBB_BBBBB
+kind: ConfigMap
+metadata:
+  name: app-env
